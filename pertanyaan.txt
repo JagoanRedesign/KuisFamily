@@ -1,0 +1,183 @@
+q001#sebutkan nama buah dengan akhiran huruf A!
+semangka
+mangga
+pepaya
+kelapa
+nangka
+delima
+markisa
+kurma
+srikaya
+nagaq001
+
+
+q002#sebutkan nama buah dengan awalan huruf D!
+delima
+duku
+durian
+duwetq002
+
+
+q003#sebutkan nama buah dengan awalan huruf S!
+salak
+semangka
+stroberi
+sirsak
+sawo
+srikayaq003
+
+
+q004#sebutkan nama buah dengan akhiran huruf N!
+rambutan
+lemon
+melon
+durian
+timun
+degan
+sukunq004
+
+
+q005#sebutkan nama hewan dengan awalan huruf U!
+ular
+udang
+ulat
+unta
+ubur ubur
+undur undurq005
+
+
+q006#sebutkan nama hewan dengan akhiran huruf H!
+gajah
+jerapah
+lebah
+lintah
+rubah
+cendrawasihq006
+
+
+q007#sebutkan nama hewan dengan akhiran huruf R!
+ular
+kelelawar
+lobster
+jaguar
+tapir
+hamsterq007
+
+
+q008#sebutkan hewan bertanduk!
+sapi
+kambing
+kerbau
+domba
+banteng
+rusa
+kijang
+bisonq008
+
+
+q009#sebutkan nama-nama ruangan dari sebuah rumah!
+kamar tidur
+kamar mandi
+dapur
+ruang tamu
+ruang keluargaq009
+
+
+q010#sebutkan penyebab orang bisa mati!
+takdir
+penyakit
+kecelakaan
+keracunan
+dibunuh
+bunuh diriq010
+
+
+q011#Tempat apa yang biasa dijadikan untuk berpetualang?
+hutan
+gunung
+sungai
+laut
+sawahq011
+
+
+q012#Sebutkan benda bocor yang bisa bermasalah!
+genteng
+gas
+pipa
+kondomq012
+
+
+q013#Sebutkan cairan yang dapat keluar dari tubuh manusia!
+keringat
+air mata
+ludah
+darah
+air mani
+air seni
+nanah
+tinja
+maziq013
+
+
+q014#Sebutkan lapisan-lapisan atmosfer!
+troposfer
+stratosfer
+mesosfer
+termosfer
+eksosferq014
+
+
+q015#Sebutkan negara-negara maju di benua Asia!
+singapura
+jepang
+korea selatan
+taiwan
+hongkong
+israel
+makauq015
+
+
+q016#Sebutkan alat musik tiup!
+suling
+terompet
+harmonika
+pianika
+klarinetq016
+
+
+q017#Sebutkan merk laptop terkenal!
+toshiba
+asus
+acer
+lenovo
+hp
+apple
+dell
+msi
+samsungq017
+
+
+q018#Sebutkan merk sabun mandi!
+nuvo
+giv
+lifebuoy
+lux
+dettol
+dove
+shinzui
+citraq018
+
+
+q019#Sebutkan klasifikasi kingdom makhluk hidup!
+tumbuhan
+hewan
+jamur
+monera
+protistaq019
+
+q020#Sebutkan kelompok-kelompok hewan vertebrata!
+mamalia
+reptilia
+amphibia
+aves
+piscesq020
