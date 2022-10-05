@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 aiohttp @ file:///home/runner/.cache/pypoetry/artifacts/7c/7f/ef/e3929f8a69b401d94cdb7beaddd26f627c8ec74a4c2ed54154231b3da0/aiohttp-3.8.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
 aiosignal @ file:///home/runner/.cache/pypoetry/artifacts/10/f9/3e/e3829bbfee02973256e0f91c0847dffab1e800c0c3cde650164728e576/aiosignal-1.2.0-py3-none-any.whl
 async-timeout @ file:///home/runner/.cache/pypoetry/artifacts/cc/a0/0d/f40eecfce9a507060d4617ff2cccee167ce496fa5f7a6b1e447164afea/async_timeout-4.0.2-py3-none-any.whl
@@ -70,3 +71,6 @@ yapf==0.31.0
 yarg==0.1.9
 yarl @ file:///home/runner/.cache/pypoetry/artifacts/1c/b1/ab/060bfb7dbc4a037102a22a2171f5f19ccec8bf7338a6c23c02796edd0d/yarl-1.7.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
 zipp @ file:///home/runner/.cache/pypoetry/artifacts/50/a3/cb/f403cce17fb5613b5ff8e058b2f694d598def62f2a71258897748e48df/zipp-3.8.0-py3-none-any.whl
+=======
+
+>>>>>>> origin/main

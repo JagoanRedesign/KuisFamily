@@ -23,6 +23,7 @@ salak
 semangka
 stroberi
 sirsak
+sukun
 sawo
 srikayaq003
 
@@ -42,8 +43,8 @@ ular
 udang
 ulat
 unta
-ubur ubur
-undur undurq005
+ubur-ubur
+undur-undurq005
 
 
 q006#sebutkan nama hewan dengan akhiran huruf H!
@@ -61,7 +62,9 @@ kelelawar
 lobster
 jaguar
 tapir
-hamsterq007
+hamster
+ubur-ubur
+undur-undurq007
 
 
 q008#sebutkan hewan bertanduk!
@@ -101,6 +104,7 @@ sawahq011
 
 
 q012#Sebutkan benda bocor yang bisa bermasalah!
+ban
 genteng
 gas
 pipa
@@ -175,9 +179,466 @@ jamur
 monera
 protistaq019
 
+
 q020#Sebutkan kelompok-kelompok hewan vertebrata!
 mamalia
 reptilia
 amphibia
 aves
 piscesq020
+
+
+q021#Sebutkan hewan yang biasa ditunggangi manusia!
+kuda
+unta
+gajah
+banteng
+kerbau
+keledai
+llama
+rusaq021
+
+
+q022#Sebutkan planet di tata surya dalam bahasa inggris!
+mars
+earth
+venus
+mercury
+jupiter
+uranus
+saturn
+neptuneq022
+
+
+q023#Sebutkan warna dalam lagu balonku!
+hijau
+kuning
+kelabu
+biru
+pinkq023
+
+
+q024#Sebutkan jenis profesi yang sering muncul dalam sinetron!
+dokter
+pembantu
+pedagang
+polisi
+wartawanq024
+
+
+q025#Sebutkan macam senjata yang digunakan ninja!
+kunai
+shuriken
+bom
+makibishiq025
+
+
+q026#Sebutkan macam isi bantal!
+kapas
+kapuk
+kain
+bulu
+dakron
+lateksq026
+
+
+q027#Sebutkan nama bulan yang berjumlah 30 hari!
+april
+juni
+september
+novemberq027
+
+
+q028#Sebutkan nama umum spesies kucing besar!
+harimau
+singa
+jaguar
+cheetah
+puma
+lynxq028
+
+
+q029#Sebutkan barang yang bisa terbuat dari kulit binatang!
+tas
+jaket
+sepatu
+sandal
+sabuk
+dompet
+bedukq029
+
+
+q030#Sebutkan hal yang berhubungan dengan vampir!
+darah
+taring
+drakula
+malam
+kelelawar
+halloweenq030
+
+
+q031#Sebutkan jenis jenis asuransi!
+jiwa
+kesehatan
+pendidikan
+kendaraan
+kecelakaan
+hari tuaq031
+
+
+q032#Sebutkan sesuatu yang dijilat!
+es krim
+lolipop
+amplop
+bibirmuq032
+
+
+q033#Selain dada (da 2x), sebutkan bagian tubuh yang namanya berulang!
+pipi
+paru paru
+susu
+gigi
+kuku
+ususq033
+
+
+q034#Dimana biasanya orang duduk santai sambil ngopi?
+rumah
+kantor
+warung
+kafe
+pos rondaq034 
+
+
+q035#Profesi apa yang menggunakan helm?
+kuli
+kontraktor
+ojek
+pembalapq035 
+
+
+q036#Sifat yang dimiliki anak-anak..
+manja 
+nakal 
+pemalu
+cengengq036
+
+
+q037#Apa yang biasanya ditaruh di saku?
+hp
+dompet 
+uang 
+kunci 
+permen 
+pulpenq037
+
+
+q038#Benda apa yang orang sering kehilangan?
+uang
+dompet
+kunci
+hp
+
+
+q039#Bagian tubuh yang mudah gemuk..
+perut
+paha
+pinggul
+pipi
+leherq039
+
+
+q040#Saat mencium bau apa orang menutup hidungnya?
+kentut
+bangkai
+pesing
+busuk
+sampah
+tinjaq040
+
+
+q041#Saat ngantuk orang ngapain?
+tidur
+minum kopi
+cuci muka
+menguapq041
+
+
+q042#Sebutkan hewan yang sering menggigit manusia!
+nyamuk
+semut
+ular
+anjingq042
+
+
+q043#Sebutkan kebiasaan anak kecil sesudah bermain!
+tidur
+makan
+mandi
+minum susuq043
+
+
+q044#Sebutkan yang memiliki pola warna unik pada bulunya!
+zebra
+harimau
+macan tutul
+merakq044
+
+
+q045#Sebutkan perbuatan yang kamu merasa bersalah tepat setelah kamu melakukannya!
+mencuri
+berbohong
+selingkuh
+menghabiskan uang
+membentak
+makan kebanyakanq045
+
+
+q046#Menghabiskan waktu dengan siapa jika tidak punya pacar?
+orang tua
+teman
+keluarga
+saudara
+sendiriq046
+
+
+q047#Kamu taruh mana jika kamu punya selembar foto berharga?
+bingkai
+dompet
+laci
+buku
+albumq047
+
+
+q048#Sebutkan olahraga yang komentatornya sering berteriak semangat!
+sepak bola
+futsal
+basket
+tinjuq048
+
+
+q049#Dimana kamu bisa melihat ikan?
+laut
+sungai
+akuarium
+kolam
+danau
+empang
+pasarq049
+
+
+q050#Mobil tidak bisa jalan tanpa..
+bahan bakar
+mesin
+radiator
+oli
+ban
+akiq050
+
+
+q051#Sebutkan sesuatu yang bisa membuatmu gatal!
+nyamuk
+semut
+alergi
+ketombe
+penyakit kulit
+gak mandiq051
+
+
+q052#Topik apa yang biasanya dibahas di majalah wanita?
+kecantikan
+fashion
+masakan
+asmara
+kehamilanq052
+
+
+q053#Sebutkan benda yang memiliki resleting!
+tas
+pakaian
+koper
+dompet
+tendaq053
+
+
+q054#Sebutkan tempat dimana orang mudah mencari teman?
+sekolah
+tempat kerja
+tempat ibadah
+tempat tinggal
+kampus
+internetq054
+
+
+q055#Sebutkan apa yang bisa kamu lihat di langit!
+bintang
+bulan
+matahari
+awan
+pesawat
+burung
+pelangiq055
+
+
+q056#Sebutkan tempat dimana ada elevator?
+mall
+hotel
+rumah sakit
+gedungq056
+
+
+q057#Bagian tubuh apa yang biasa dipijit?
+punggung
+pundak
+tangan
+kaki
+paha
+kepalaq057
+
+
+q058#Sebutkan benda yang semakin kecil jika terus digunakan!
+sabun batang
+pensil
+penghapus
+kapur
+lipstikq058
+
+
+q059#Tidak ada yang lebih berharga di dunia ini daripada ...?
+keluarga
+sahabat
+cinta
+kesehatan
+uangq059
+
+
+q060#Apa yang sering orang tua belikan untuk anak balitanya?
+popok
+susu
+mainan
+bedak
+pakaian
+sabunq060
+
+
+q061#Sebutkan tanda-tanda penuaan fisik pada seseorang!
+keriput
+ubanan
+botak
+mata rabun
+sakit punggung
+loyoq061
+
+
+q062#Apa yang biasa jatuh dari suatu pohon?
+daun
+bunga
+buah
+biji
+rantingq062
+
+
+q063#Sebutkan sinonim dari kata 'sombong'!
+angkuh
+congkak
+besar kepala
+arogan
+takabur
+belagu
+jumawaq063
+
+
+q064#Sebutkan hewan yang memiliki gigi tajam yang banyak!
+buaya
+hiuq064
+
+
+q065#Sebutkan alat komunikasi yang sudah ketinggalan jaman!
+surat
+telepon umum
+telegrafq065
+
+
+q066#Bangunan apa memiliki banyak tempat tidur?
+hotel
+kos
+rumah sakit
+puskesmas
+asrama
+barakq066
+
+
+q067#Sebutkan anggota tubuh yang berpasangan!
+mata
+telinga
+tangan
+kaki
+payudara
+biji pelirq067
+
+
+q068#Kegiatan apa yang lebih baik jika dilakukan dalam gelap?
+tidur
+nonton film
+cerita horor
+ngeweq068
+
+
+q069#Sebutkan benda dirumah yang jarang sekali ganti baterai!
+jam
+remot
+senterq069
+
+
+q070#Sebutkan kendaraan yang mempunyai sirene!
+mobil polisi
+mobil ambulan
+mobil pemadam kebakaranq070
+
+
+q071#Dimana kamu bisa melihat banyak bunga?
+taman
+kebun
+toko bunga
+pemakamanq071
+
+
+q072#Benda apa yang dipakai di leher?
+kalung
+dasi
+syal
+peluitq072
+
+
+q073#Sebutkan negara yang hanya 1 pulau!
+australia
+selandia baru
+islandia
+fijiq073
+
+
+q074#Apa yang orang panjat?
+tebing
+pohon
+gunung
+tangga
+pinangq074
+
+
+q075#Sebutkan konsol game!
+playstation
+nintendo
+atari
+sega
+xboxq075
+
+
+q076#Sebutkan kendaraan yang memiliki banyak penumpang!
+bus
+kereta api
+pesawat
+angkot
+mrtq076
+
+
+
