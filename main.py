@@ -54,6 +54,7 @@ def dimulai(messages):
                         rewrite.append(vol)
                     pertanyaan = ambilpertanyaan(sesi)
                     with open(sesi + '.txt', 'r+') as restart:
+                        restart.readlines()
                         restart.write('\n' + ''.join(rewrite))
                     bot.reply_to(message, pertanyaan)
                 else:
@@ -65,26 +66,56 @@ def dimulai(messages):
                     soali = "\n".join(soal)
                     bot.reply_to(message,"Kuis sudah dimulai.." + '\n' + '\n' + soali)
         elif a == "/pass" or a == "/pass@kuistrivia_bot":
-            rewrite = []
-            konten = bacafile(sesi)
-            if ": " in ''.join(konten):
-                skor = [i for i, s in enumerate(konten) if ": " in s]
-                for vol in konten:
-                    if konten.index(vol) in skor:
-                        rewrite.append(konten[konten.index(vol)])
-            pertanyaan = ambilpertanyaan(sesi)
-            with open(sesi + '.txt', 'r+') as logg:
-                logg.write('\n' + ''.join(rewrite))
-            bot.reply_to(message, pertanyaan)
+            kosong = cekisi(sesi)
+            if not kosong:
+                bot.reply_to(message, 'Kuis belum di /mulay')
+            else:
+                rewrite = []
+                konten = bacafile(sesi)
+                if ": " in ''.join(konten):
+                    skor = [i for i, s in enumerate(konten) if ": " in s]
+                    for vol in konten:
+                        if konten.index(vol) in skor:
+                            rewrite.append(konten[konten.index(vol)])
+                pertanyaan = ambilpertanyaan(sesi)
+                with open(sesi + '.txt', 'r+') as logg:
+                    logg.write('\n' + ''.join(rewrite))
+                bot.reply_to(message, pertanyaan)
         elif a ==  "/ampun" or a == "/ampun@kuistrivia_bot":
-          rewrite = []
-          with open(sesi + '.txt', 'r+') as cek:
-              isi = cek.readlines()
-              if ": " in ''.join(isi):
-                  skor = [i for i, s in enumerate(isi) if ": " in s]
-                  for vol in isi:
-                      if isi.index(vol) in skor:
-                          rewrite.append(isi[isi.index(vol)])
+            if not kosong:
+                bot.reply_to(message, 'Kuis belum di /mulay')
+            else:
+                konten = bacafile(sesi)
+                batas = [i for i,s in enumerate(konten) if '#' in s ] 
+                akhir = [i for i,s in enumerate(konten) if ':end' in s]
+                tnd = []
+                key = []
+                for baris in konten:
+                    if konten.index(baris) < batas[0]:
+                        tnd.append(baris)
+                    if konten.index(baris) < akhir[0] and konten.index(baris) > batas[0]:
+                        key.append(baris.strip())
+                tndtny = [i for i,s in enumerate(tnd) if '???' in s]
+                print(key)
+                tnd[tndtny[0]] = str(tndtny[0])+ '. '+key[tndtny[0]]+ ' [bot]*\n'
+                if '@' in ''.join(konten):
+                    liskor = [i for i,s in enumerate(konten) if ': ' in s]
+                    tnd.append('\n')
+                    score = []
+                    for skor in liskor:
+                        tnd.append('\n'+konten[skor].strip())
+                        score.append(konten[skor])
+                    tnd.append('\n\nPayah lu.. /mulay lagi lah..🤪')
+                    bot.reply_to(message, ''.join(tnd))
+                    with open(sesi+'.txt','w+') as tulis:
+                        tulis.write(''.join(score)) 
+                        tulis.close()
+                else:
+                    tnd.append('\n\nPayah lu.. /mulay lagi lah..🤪')
+                    bot.reply_to(message, ''.join(tnd))
+        elif a == '/reset':
+            with open(sesi+'.txt','w+') as clr:
+                clr.close()
         else:
             kosong = cekisi(sesi)
             if not kosong:
@@ -138,7 +169,7 @@ def dimulai(messages):
                             disp.append(hasil.strip())
                     for asil in skan:
                         if skan.index(asil) in mark:
-                            disp2.append(asil.strip())
+                            disp2.append(asil)
                             for stat in disp2:
                                 inte = stat.split(' ')[-1]
                                 makskor.append(int(inte))

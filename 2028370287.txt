@@ -1,18 +1,1 @@
-Apa yang orang panjat?
-1. tebing (4) [@OldMid]
-2. pohon (7) [@OldMid]
-3. gunung (10) [@OldMid]
-4. ???
-5. pinang (18) [@OldMid]
-#Apa yang orang panjat?
-
-tebing
-pohon
-gunung
-tangga
-pinang
-:end
-
-
-
-@OldMid: 39
+@OldMid: 50
