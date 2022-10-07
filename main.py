@@ -82,6 +82,7 @@ def dimulai(messages):
                     logg.write('\n' + ''.join(rewrite))
                 bot.reply_to(message, pertanyaan)
         elif a ==  "/ampun" or a == "/ampun@kuistrivia_bot":
+            kosong = cekisi(sesi)
             if not kosong:
                 bot.reply_to(message, 'Kuis belum di /mulay')
             else:
