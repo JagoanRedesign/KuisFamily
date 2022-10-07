@@ -12,7 +12,7 @@ def cekfile(berkas):
 
 def cekisi(berkas):
   with open(berkas + '.txt') as baca:
-      cek = baca.read(1)
+      cek = baca.read(3)
   return cek
 
 def bacafile(berkas):
@@ -66,27 +66,27 @@ def dimulai(messages):
                     soali = "\n".join(soal)
                     bot.reply_to(message,"Kuis sudah dimulai.." + '\n' + '\n' + soali)
         elif a == "/pass" or a == "/pass@kuistrivia_bot":
+            konten = bacafile(sesi)
             kosong = cekisi(sesi)
-            if not kosong:
+            if not kosong or '???' not in ''.join(konten):
                 bot.reply_to(message, 'Kuis belum di /mulay')
             else:
                 rewrite = []
-                konten = bacafile(sesi)
                 if ": " in ''.join(konten):
                     skor = [i for i, s in enumerate(konten) if ": " in s]
                     for vol in konten:
                         if konten.index(vol) in skor:
                             rewrite.append(konten[konten.index(vol)])
                 pertanyaan = ambilpertanyaan(sesi)
-                with open(sesi + '.txt', 'r+') as logg:
+                with open(sesi + '.txt', 'a+') as logg:
                     logg.write('\n' + ''.join(rewrite))
                 bot.reply_to(message, pertanyaan)
         elif a ==  "/ampun" or a == "/ampun@kuistrivia_bot":
+            konten = bacafile(sesi)
             kosong = cekisi(sesi)
-            if not kosong:
+            if not kosong or '???' not in ''.join(konten):
                 bot.reply_to(message, 'Kuis belum di /mulay')
             else:
-                konten = bacafile(sesi)
                 batas = [i for i,s in enumerate(konten) if '#' in s ] 
                 akhir = [i for i,s in enumerate(konten) if ':end' in s]
                 tnd = []
@@ -135,7 +135,6 @@ def dimulai(messages):
                             kunci_jwb[isi[1:-1].strip()] = None
                         else:
                             kunci_jwb[isi.strip()] = None
-                print(jwb)
                 if a in list(kunci_jwb.keys()) and a in jwb:
                     pass
                 elif a in list(kunci_jwb.keys()) and a not in jwb:
