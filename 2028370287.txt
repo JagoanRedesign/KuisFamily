@@ -1,1 +1,14 @@
-@OldMid: 139
+Saat ngantuk orang ngapain?
+1. tidur (4) [@OldMid]
+2. ???
+3. ???
+4. ???
+#Saat ngantuk orang ngapain?
+
+tidur
+minum kopi
+cuci muka
+menguap
+:end
+
+@OldMid: 166

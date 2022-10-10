@@ -177,7 +177,7 @@ def dimulai(messages):
                     skorr = '\n'.join(disp2)
                     maks = 0
                     for t in makskor:
-                        if t > 349:
+                        if t > 149:
                             maks = t
                     if not '???' in kirim:
                         bot.reply_to(message, kirim+'\n\n'+'Skor sementara:\n'+skorr+'\n\n'+" Semua telah terjawab.. ketik /mulay untuk pertanyaan lain")

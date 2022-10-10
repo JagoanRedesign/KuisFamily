@@ -641,4 +641,205 @@ angkot
 mrtq076
 
 
+q077#Apa yang orang lakukan di depan cermin?
+dandan
+becermin
+sisiran
+cukur
+potong rambutq077
+
+
+q078#Sebutkan warna-warna pelangi! (inggris)
+red
+orange
+yellow
+green
+blue
+purple
+indigoq078
+
+
+q079#Makanan jepang yang terkenal di Indonesia?
+sushi
+sashimi
+onigiri
+ramen
+tempura
+dorayaki
+takoyakiq079
+
+
+q080#Sebutkan profesi dengan awalan huruf B!
+bidan
+buruh
+barista
+bartender
+bloggerq080
+
+
+q081#Sebutkan profesi dengan awalan huruf S!
+supir
+satpam
+sekretaris
+sutradara
+selebriti
+senimanq081
+
+
+q082#Sebutkan profesi dengan awalan huruf D!
+dokter
+dosen
+direktur
+desainer
+diplomat
+dubberq082
+
+
+q083#Sebutkan sesuatu yang jatuh dari langit!
+hujan
+salju
+es
+meteorq083
+
+
+q084#Sebutkan lagu-lagu nasional indonesia!
+indonesia raya
+garuda pancasila
+mengheningkan cipta
+indonesia pusaka
+bagimu negeri
+halo-halo bandung
+hari merdeka
+maju tak gentar
+tanah airkuq084
+
+
+q085#Dimana biasanya dua sejoli kencan?
+pantai
+taman
+bioskop
+restoran
+tempat wisata
+hotelq085
+
+
+q086#Sebutkan aksesoris yang hampir semua perempuan mengenakannya!
+anting
+kalung
+cincin
+braq086
+
+
+q087#Jika kamu tersesat, darimana kamu mendapatkan informasi?
+tanya orang
+kompas
+gps
+petaq087
+
+
+q088#Buah apa yang biasanya orang belah?
+semangka
+durian
+nangka
+pepaya
+mangga
+nanasq088
+
+
+q089#Benda yang disebut rusak jika banyak goresan di benda itu?
+cermin
+kacamata
+kaset
+lukisan
+piringan hitamq089
+
+
+q090#Apa yang besar dari gajah?
+tubuh
+telinga
+belalai
+gadingq090
+
+
+q091#Jika kamu melihat seseorang dirampok, apa yang kamu lakukan?
+berteriak
+panggil polisi
+pukul kentongan
+hajar perampokq091
+
+
+q092#Benda apa yang harus basah dulu sebelum digunakan?
+spons
+pel
+sabun
+semenq092
+
+
+q094#Sebutkan bahan makanan yang tumbuh di dalam tanah!
+ubi
+singkong
+kentang
+wortel
+kacang tanah
+talasq094
+
+
+q095#Apa yang biasanya masuk di mata kamu?
+debu
+sabun
+asap
+rambut
+seranggaq095
+
+
+q096#Buah apa yang muat dalam mulutmu sepenuhnya?
+anggur
+kelengkeng
+rambutan
+ceri
+stroberi
+cermai
+asam
+belimbing wuluhq096
+
+
+q097#Bagian tubuh mana yang wanita biasa memakai perhiasan?
+telinga
+leher
+jari
+tangan
+kakiq097
+
+
+q098#Sebutkan social platform milik Meta!
+Facebook
+Instagram
+Whatsapp
+Messengerq098
+
+
+q099#Selain tombol huruf dan angka, tombol apa yang sering dipencet pada keyboard?
+enter
+backspace
+ctrl
+shift
+spaceq099
+
+
+q100#Olahraga apa yang memukul sesuatu?
+bulutangkis
+tenis
+voli
+pingpong
+baseball
+tinjuq100
+
+
+q101#Sebutkan sesuatu yang membuatmu wangi!
+parfum
+sabun
+sampo
+deodoran
+losionq101
+
 

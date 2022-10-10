@@ -30,9 +30,9 @@ def ambil_blok_pert(terbesar):
                     qgroup.append(row[5:])
                 else:
                     if row.strip().endswith('q'+f):
-                        qgroup.append(row[:-5])
+                        qgroup.append(row.strip()[:-4])
                     else:
-                        qgroup.append(row[:-1])
+                        qgroup.append(row[:-1].strip())
             if row.strip().endswith(f):
                 ketemu = False
     return qgroup
