@@ -41,7 +41,7 @@ def cetak_pert(qgroup):
     pert = []
     pert.append(qgroup[0])
     for i in range(1, len(qgroup)):
-        pert.append(str(i) + '. ' + '???')
+        pert.append(str(i) + '. ' + '_________')
     d = '\n'.join(pert)
     return d
 
