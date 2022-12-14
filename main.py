@@ -179,8 +179,8 @@ def dimulai(messages):
                     for t in makskor:
                         if t > 149:
                             maks = t
-                    if not '???' in kirim:
-                        bot.reply_to(message, kirim+'\n\n'+'Skor sementara:\n'+skorr+'\n\n'+" Semua telah terjawab.. ketik /mulay untuk pertanyaan lain")
+                    if not '_________' in kirim:
+                        bot.reply_to(message, kirim+'\n\n'+'Skor sementara:\n'+skorr+'\n\n'+" Semua telah terjawab.. ketik /mulai untuk pertanyaan lain")
                         with open(sesi + '.txt', 'w+') as bersih:
                             bersih.write(skorr)
                     elif maks >= 350:
