@@ -62,6 +62,6 @@ def proses_jwb(qgroup, jawaban):
                         if p == z:
                             j[z] = str(z) + '. ' + a
             g = ''.join(j)
-            if '???' not in g:
+            if '_________' not in g:
                 break
     return g
