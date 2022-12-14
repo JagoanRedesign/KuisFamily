@@ -49,9 +49,9 @@ def proses_jwb(qgroup, jawaban):
     j = []
     j.append(qgroup[0])
     for e in range(1, len(qgroup)):
-        j.append(str(e)+'. ' + '???')
+        j.append(str(e)+'. ' + '_________')
     for c in j:
-        while '???' in c:
+        while '_________' in c:
             a = jawaban.lower()
             if a in qgroup:
                 p = qgroup.index(a)
