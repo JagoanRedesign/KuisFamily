@@ -30,7 +30,7 @@ def ambilpertanyaan(berkas):
         f.write(blok_pert[0])
         nomer = []
         for n in range(1, len(blok_pert)):
-            nomer.append(str(n) + '. ' + '???')
+            nomer.append(str(n) + '. ' + '_________')
         f.write('\n'.join(nomer))
         f.write('\n' + '#' + soal + '\n' + ':end')
     return pertanyaan
@@ -40,7 +40,7 @@ def dimulai(messages):
     for message in messages:
         a = str(message.text).lower()
         sesi = str(message.chat.id)
-        if a == "/mulay" or a == "/mulay@kuistrivia_bot":
+        if a == "/mulai" or a == "/mulai@Family100Robot":
             cekfile(sesi)
             kosong = cekisi(sesi)
             if not kosong:
@@ -49,7 +49,7 @@ def dimulai(messages):
             else:
                 konten = bacafile(sesi)
                 rewrite = []
-                if not "???" in ''.join(konten):
+                if not "_________" in ''.join(konten):
                     for vol in konten:
                         rewrite.append(vol)
                     pertanyaan = ambilpertanyaan(sesi)
@@ -65,11 +65,11 @@ def dimulai(messages):
                             soal.append(u.strip())
                     soali = "\n".join(soal)
                     bot.reply_to(message,"Kuis sudah dimulai.." + '\n' + '\n' + soali)
-        elif a == "/pass" or a == "/pass@kuistrivia_bot":
+        elif a == "/pass" or a == "/pass@Family100Robot":
             konten = bacafile(sesi)
             kosong = cekisi(sesi)
-            if not kosong or '???' not in ''.join(konten):
-                bot.reply_to(message, 'Kuis belum di /mulay')
+            if not kosong or '_________' not in ''.join(konten):
+                bot.reply_to(message, 'Pass apa? Game nya aja belum mulai, Ketik /mulai untuk memulai permainan.')
             else:
                 rewrite = []
                 if ": " in ''.join(konten):
@@ -81,11 +81,11 @@ def dimulai(messages):
                 with open(sesi + '.txt', 'a+') as logg:
                     logg.write('\n' + ''.join(rewrite))
                 bot.reply_to(message, pertanyaan)
-        elif a ==  "/ampun" or a == "/ampun@kuistrivia_bot":
+        elif a ==  "/nyerah" or a == "/nyerah@Family100Robot":
             konten = bacafile(sesi)
             kosong = cekisi(sesi)
-            if not kosong or '???' not in ''.join(konten):
-                bot.reply_to(message, 'Kuis belum di /mulay')
+            if not kosong or '_________' not in ''.join(konten):
+                bot.reply_to(message, 'Nyerah apa? Game nya aja belum mulai, Ketik /mulai untuk memulai permainan.')
             else:
                 batas = [i for i,s in enumerate(konten) if '#' in s ] 
                 akhir = [i for i,s in enumerate(konten) if ':end' in s]
@@ -96,7 +96,7 @@ def dimulai(messages):
                         tnd.append(baris)
                     if konten.index(baris) < akhir[0] and konten.index(baris) > batas[0]:
                         key.append(baris.strip())
-                tndtny = [i for i,s in enumerate(tnd) if '???' in s]
+                tndtny = [i for i,s in enumerate(tnd) if '_________' in s]
                 print(key)
                 tnd[tndtny[0]] = str(tndtny[0])+ '. '+key[tndtny[0]]+ ' [bot]*\n'
                 if '@' in ''.join(konten):
@@ -106,13 +106,13 @@ def dimulai(messages):
                     for skor in liskor:
                         tnd.append('\n'+konten[skor].strip())
                         score.append(konten[skor])
-                    tnd.append('\n\nPayah lu.. /mulay lagi lah..🤪')
+                    tnd.append('\n\nKetik /mulai untuk Pertanyaan Lainnya.')
                     bot.reply_to(message, ''.join(tnd))
                     with open(sesi+'.txt','w+') as tulis:
                         tulis.write(''.join(score)) 
                         tulis.close()
                 else:
-                    tnd.append('\n\nPayah lu.. /mulay lagi lah..🤪')
+                    tnd.append('\n\nKetik /mulai untuk Pertanyaan Lainnya.')
                     bot.reply_to(message, ''.join(tnd))
         elif a == '/reset':
             with open(sesi+'.txt','w+') as clr:
