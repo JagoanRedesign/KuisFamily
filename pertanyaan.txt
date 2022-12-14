@@ -850,10 +850,12 @@ Ular
 Tikus
 Pacarkuq102
 
+
 q103#Jenis Penyakit Kulit?
 Panu
 Kurap
 Gatal gatalq103
+
 
 q104#Yang Dilakukan Pas Lagi Duduk Santai
 Baca Koran
@@ -863,16 +865,19 @@ Merokok
 Ngobrol
 Nonton tvq104
 
+
 q105#Nama Hewan Berawalan A
 Anjing
 Ayam
 Angsaq105
+
 
 q106#Rokok Di Indonesia?
 Djarum
 Marlboro
 U Mild
 Sampoernaq106
+
 
 q107#Merk Harddisk
 Quantum
@@ -881,17 +886,20 @@ Maxtor
 Wdc
 Intelq107
 
+
 q108#Negara Pengekspor Minyak Terbesar
 Arab
 Indonesia
 Kuwait
 Brunei Darussalamq108
 
+
 q109#Yang Dilakukan Orang Saat Menunggu
 Merokok
 Membaca
 Melamun
 Cemasq109
+
 
 q110#Mobil Keluaran Toyota
 Harrier
@@ -901,6 +909,7 @@ Camry
 Jenis Jenis Energi
 Batu baraq110
 
+
 q111#Hewan Mamalia
 Anjing
 Kucing
@@ -908,10 +917,12 @@ Singa
 Kelinci
 Beruangq111
 
+
 q112#Yang Biasa Ngambang Di Sungai?
 Mayat
 Sampah
 Kayuq112
+
 
 q113#Hewan Berbulu Tebal
 Beruang
@@ -920,17 +931,20 @@ Kera
 Domba
 Kucingq113
 
+
 q114#Cara Pengawetan Sayur dan Buah
 Pengeringan
 Pengalengan
 Pengasinan
 Pemanisan
-Pelumatanq115
+Pelumatanq114
+
 
 q115#Jenis Sampah
 Organik
 Unorganik
 B3q115
+
 
 q116#Teman Donald Bebek
 Lang Ling Lung
@@ -938,12 +952,14 @@ Agus Angsa
 Untung
 Desiq116
 
+
 q117#Hiburan Apa Yang Ada Dipesta Ulang Tahun
 Band
 Badut
 Sulap
 Kuis
 Gameq117
+
 
 q118#Sesuatu Yang Diangkat Dengan Truk
 Perabotan
@@ -960,21 +976,25 @@ Batu Bara
 Minyak Tanah
 LPGq119
 
+
 q120#Berapa Lama Orang Menjemur Kasur
 Satu Jam
 Empat Jam
 Seharianq120
+
 
 q121#Julukan Suporter Indonesia
 Bonek
 Jak Mania
 Laviolaq121
 
+
 q122#Negara Yang Memiliki Sungai Terpanjang Didunia
 Afrika
 Amerika
 Chijna
 Rusiaq122
+
 
 q123#Mata Uang Yang Berawalan R
 Rupiah
@@ -983,12 +1003,14 @@ Riel
 Rupee
 Ringgitq123
 
+
 q124#Personil Big Bang
 G-Dragon
 Taeyang
 Seungri
 Daesung
 T.O.Pq124
+
 
 q125#Alat Musik Sederhana
 Gitar
@@ -998,6 +1020,7 @@ Terompet
 Harmonika
 Pianikaq125
 
+
 q126#Negara Di Asia Timur
 China
 Taiwan
@@ -1005,20 +1028,24 @@ Korea Utara
 Korea Selatan
 Mongoliaq126
 
+
 q127#Makanan Yang Termasuk Gorengan
 Ubi
 Tahu
 Tempe
 Pisangq127
 
+
 q128#Jenis Makanan Atau Minuman Yang Disukai Untuk Berbuka Puasa?
 Air Putih
 Gorengan
 Kolakq128
 
+
 q129#Tempat Wisata Di Indonesia?
 Bali
 Ancolq129
+
 
 q130#Warna Tinta Bulpoint
 Hitam
@@ -1038,17 +1065,20 @@ Kerja Sales
 Ikut Sayembara
 Pengen Gemukq131
 
+
 q132#Struktur Sel
 Membran Sel
 Sitoplasma
 Nukleus
 Organelq132
 
+
 q133#Apa Yang Dilakukan Orang Bila Mengantuk
 Tidur
 Menguap
 Minum Kopi
 Cuci Mukaq133
+
 
 q134#Imunisasi Dari Pihak Posyandu / Klinik
 Polio
@@ -1057,6 +1087,7 @@ Cacar
 BCG
 DPT
 Demam Tipoidq134
+
 
 q135#Macam Baju Daerah
 Bodo
@@ -1072,6 +1103,7 @@ Mandi
 Makan
 Tidurq136
 
+
 q137#Sebutkan Acara Tv Favorit
 Kartun
 Kuis
@@ -1079,6 +1111,7 @@ Telenovela
 Sinetron
 Olahraga
 Film Seriq137
+
 
 q138#Disaat Apa Orang Mematikan Ponsel
 Ujian
@@ -1088,11 +1121,13 @@ Ibadah
 Tidur
 Rapatq138
 
+
 q139#Suara Yang Ditakuti Anak Anak
 Anjing
 Hantu
 Petir
 Harimauq139
+
 
 q140#Yang Dilakukan Orang Saat Liburan
 Rekreasi
@@ -1108,14 +1143,15 @@ Pipa
 Genteng
 Kondomq141
 
-q142#Pertanyaan: Kado yang biasa diberikan cowok kepada cewek
+
+q142#Kado yang biasa diberikan cowok kepada cewek
 Boneka
 Kalung
 Coklat
 Bungaq142
 
 
-q143#Pertanyaan: Hal apa yang sering terlupakan seorang anak jika keasikan main game
+q143#Hal apa yang sering terlupakan seorang anak jika keasikan main game
 Mandi
 Waktu Sholat
 Membantu Ibu
