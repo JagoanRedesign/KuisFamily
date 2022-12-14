@@ -857,7 +857,7 @@ Kurap
 Gatal gatalq103
 
 
-q104#Yang Dilakukan Pas Lagi Duduk Santai?
+q104#Yang Dilakukan Pas Lagi Duduk Santai!
 Baca Koran
 Melamun
 Minum Kopi
@@ -866,20 +866,20 @@ Ngobrol
 Nonton tvq104
 
 
-q105#Nama Hewan Berawalan A?
+q105#Nama Hewan Berawalan A!
 Anjing
 Ayam
 Angsaq105
 
 
-q106#Rokok Di Indonesia?
+q106#Rokok Di Indonesia!
 Djarum
 Marlboro
 U Mild
 Sampoernaq106
 
 
-q107#Merk Harddisk?
+q107#Merk Harddisk!
 Quantum
 Seagate
 Maxtor
@@ -887,21 +887,21 @@ Wdc
 Intelq107
 
 
-q108#Negara Pengekspor Minyak Terbesar?
+q108#Negara Pengekspor Minyak Terbesar!
 Arab
 Indonesia
 Kuwait
 Brunei Darussalamq108
 
 
-q109#Yang Dilakukan Orang Saat Menunggu?
+q109#Yang Dilakukan Orang Saat Menunggu!
 Merokok
 Membaca
 Melamun
 Cemasq109
 
 
-q110#Mobil Keluaran Toyota?
+q110#Mobil Keluaran Toyota!
 Harrier
 Land Cruiser
 Fortuner
@@ -910,7 +910,7 @@ Jenis Jenis Energi
 Batu baraq110
 
 
-q111#Hewan Mamalia?
+q111#Hewan Mamalia!
 Anjing
 Kucing
 Singa
@@ -918,13 +918,13 @@ Kelinci
 Beruangq111
 
 
-q112#Yang Biasa Ngambang Di Sungai?
+q112#Yang Biasa Ngambang Di Sungai!
 Mayat
 Sampah
 Kayuq112
 
 
-q113#Hewan Berbulu Tebal?
+q113#Hewan Berbulu Tebal!
 Beruang
 Panda
 Kera
@@ -932,7 +932,7 @@ Domba
 Kucingq113
 
 
-q114#Cara Pengawetan Sayur dan Buah?
+q114#Cara Pengawetan Sayur dan Buah!
 Pengeringan
 Pengalengan
 Pengasinan
@@ -940,20 +940,20 @@ Pemanisan
 Pelumatanq114
 
 
-q115#Jenis Sampah?
+q115#Jenis Sampah!
 Organik
 Unorganik
 B3q115
 
 
-q116#Teman Donald Bebek?
+q116#Teman Donald Bebek!
 Lang Ling Lung
 Agus Angsa
 Untung
 Desiq116
 
 
-q117#Hiburan Apa Yang Ada Dipesta Ulang Tahun?
+q117#Hiburan Apa Yang Ada Dipesta Ulang Tahun!
 Band
 Badut
 Sulap
@@ -961,7 +961,7 @@ Kuis
 Gameq117
 
 
-q118#Sesuatu Yang Diangkat Dengan Truk?
+q118#Sesuatu Yang Diangkat Dengan Truk!
 Perabotan
 Kayu
 Beras
@@ -969,7 +969,7 @@ Besi
 Bajaq118
 
 
-q119#Bahan Bakar Yang Berasal Dari Alam?
+q119#Bahan Bakar Yang Berasal Dari Alam!
 Bensin
 Solar
 Batu Bara
@@ -977,26 +977,26 @@ Minyak Tanah
 LPGq119
 
 
-q120#Berapa Lama Orang Menjemur Kasur?
+q120#Berapa Lama Orang Menjemur Kasur!
 Satu Jam
 Empat Jam
 Seharianq120
 
 
-q121#Julukan Suporter Indonesia?
+q121#Julukan Suporter Indonesia!
 Bonek
 Jak Mania
 Laviolaq121
 
 
-q122#Negara Yang Memiliki Sungai Terpanjang Didunia?
+q122#Negara Yang Memiliki Sungai Terpanjang Didunia!
 Afrika
 Amerika
 Chijna
 Rusiaq122
 
 
-q123#Mata Uang Yang Berawalan R?
+q123#Mata Uang Yang Berawalan R!
 Rupiah
 Riyal
 Riel
@@ -1004,7 +1004,7 @@ Rupee
 Ringgitq123
 
 
-q124#Personil Big Bang?
+q124#Personil Big Bang!
 G-Dragon
 Taeyang
 Seungri
@@ -1012,7 +1012,7 @@ Daesung
 T.O.Pq124
 
 
-q125#Alat Musik Sederhana?
+q125#Alat Musik Sederhana!
 Gitar
 Drum
 Seruling
@@ -1021,7 +1021,7 @@ Harmonika
 Pianikaq125
 
 
-q126#Negara Di Asia Timur?
+q126#Negara Di Asia Timur!
 China
 Taiwan
 Korea Utara
@@ -1029,25 +1029,25 @@ Korea Selatan
 Mongoliaq126
 
 
-q127#Makanan Yang Termasuk Gorengan?
+q127#Makanan Yang Termasuk Gorengan!
 Ubi
 Tahu
 Tempe
 Pisangq127
 
 
-q128#Jenis Makanan Atau Minuman Yang Disukai Untuk Berbuka Puasa?
+q128#Jenis Makanan Atau Minuman Yang Disukai Untuk Berbuka Puasa!
 Air Putih
 Gorengan
 Kolakq128
 
 
-q129#Tempat Wisata Di Indonesia?
+q129#Tempat Wisata Di Indonesia!
 Bali
 Ancolq129
 
 
-q130#Warna Tinta Bulpoint?
+q130#Warna Tinta Bulpoint!
 Hitam
 Biru
 Merah
@@ -1056,7 +1056,7 @@ Oranye
 Unguq130
 
 
-q131#Kenapa Orang Makan?
+q131#Kenapa Orang Makan!
 Lapar
 Stress
 Gengsi
@@ -1066,21 +1066,21 @@ Ikut Sayembara
 Pengen Gemukq131
 
 
-q132#Struktur Sel?
+q132#Struktur Sel!
 Membran Sel
 Sitoplasma
 Nukleus
 Organelq132
 
 
-q133#Apa Yang Dilakukan Orang Bila? Mengantuk
+q133#Apa Yang Dilakukan Orang Bila Mengantuk!
 Tidur
 Menguap
 Minum Kopi
 Cuci Mukaq133
 
 
-q134#Imunisasi Dari Pihak Posyandu / Klinik?
+q134#Imunisasi Dari Pihak Posyandu / Klinik!
 Polio
 Campak
 Cacar
@@ -1089,7 +1089,7 @@ DPT
 Demam Tipoidq134
 
 
-q135#Macam Baju Daerah?
+q135#Macam Baju Daerah!
 Bodo
 Kebaya
 Ulos
@@ -1098,13 +1098,13 @@ Guntiang Cino
 Surjanq135
 
 
-q136#Kebiasaan Anak Kecil Sesudah Bermain?
+q136#Kebiasaan Anak Kecil Sesudah Bermain!
 Mandi
 Makan
 Tidurq136
 
 
-q137#Sebutkan Acara Tv Favorit?
+q137#Sebutkan Acara Tv Favorit!
 Kartun
 Kuis
 Telenovela
@@ -1113,7 +1113,7 @@ Olahraga
 Film Seriq137
 
 
-q138#Disaat Apa Orang Mematikan Ponsel?
+q138#Disaat Apa Orang Mematikan Ponsel!
 Ujian
 Kuliah
 Pacaran
@@ -1122,14 +1122,14 @@ Tidur
 Rapatq138
 
 
-q139#Suara Yang Ditakuti Anak Anak?
+q139#Suara Yang Ditakuti Anak Anak!
 Anjing
 Hantu
 Petir
 Harimauq139
 
 
-q140#Yang Dilakukan Orang Saat Liburan?
+q140#Yang Dilakukan Orang Saat Liburan!
 Rekreasi
 Tidur
 Jalan Jalan
@@ -1137,21 +1137,21 @@ Belanja
 Nonton Tvq140
 
 
-q141#Sebutkan benda bocor bisa bermasalah
-Gas!
+q141#Sebutkan benda bocor bisa bermasalah!
+Gas
 Pipa
 Genteng
 Kondomq141
 
 
-q142#Kado yang biasa diberikan cowok kepada cewek?
+q142#Kado yang biasa diberikan cowok kepada cewek!
 Boneka
 Kalung
 Coklat
 Bungaq142
 
 
-q143#Hal apa yang sering terlupakan seorang anak jika keasikan main game?
+q143#Hal apa yang sering terlupakan seorang anak jika keasikan main game!
 Mandi
 Waktu Sholat
 Membantu Ibu
