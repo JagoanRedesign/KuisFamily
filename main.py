@@ -3,7 +3,7 @@ import os.path
 import telebot
 import fungsi
 
-bot = telebot.TeleBot(os.environ['API_KEY'])
+bot = os.environ.get("API_KEY", "5980732812:AAFXI4PosWOGjqS55qp54HiQwOKHcBeY9tA")
 
 def cekfile(berkas):
     if os.path.exists(berkas + '.txt') == False:
