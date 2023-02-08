@@ -40,7 +40,7 @@ def dimulai(messages):
     for message in messages:
         a = str(message.text).lower()
         sesi = str(message.chat.id)
-        if a == "/mulai@Family100Robot " or a == "/mulai":
+        if a == "/mulai@familykuis_robot" or a == "/mulai":
             cekfile(sesi)
             kosong = cekisi(sesi)
             if not kosong:
@@ -65,7 +65,7 @@ def dimulai(messages):
                             soal.append(u.strip())
                     soali = "\n".join(soal)
                     bot.reply_to(message,"Kuis sudah dimulai.." + '\n' + '\n' + soali)
-        elif a == "/pass@Family100Robot " or a == "/pass":
+        elif a == "/pass@familykuis_robot" or a == "/pass":
             konten = bacafile(sesi)
             kosong = cekisi(sesi)
             if not kosong or '_________' not in ''.join(konten):
@@ -81,7 +81,7 @@ def dimulai(messages):
                 with open(sesi + '.txt', 'a+') as logg:
                     logg.write('\n' + ''.join(rewrite))
                 bot.reply_to(message, pertanyaan)
-        elif a ==  "/nyerah@Family100Robot " or a == "/nyerah":
+        elif a ==  "/nyerah@familykuis_robot" or a == "/nyerah":
             konten = bacafile(sesi)
             kosong = cekisi(sesi)
             if not kosong or '_________' not in ''.join(konten):
