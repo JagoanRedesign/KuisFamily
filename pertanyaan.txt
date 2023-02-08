@@ -835,7 +835,7 @@ baseball
 tinjuq100
 
 
-q101#Sebutkan sesuatu yang membuatmu wangi!
+q101#Sebutkan sesuatu yang membuatmu wangi?
 parfum
 sabun
 sampo
@@ -843,316 +843,317 @@ deodoran
 losionq101
 
 
-q102#Aduh Aku Digigit...!
-Nyamuk
-Anjing
-Ular
-Tikus
-Pacarkuq102
+q102#Aduh Aku Digigit...?
+nyamuk
+anjing
+ular
+tikus
+pacarkuq102
 
 
-q103#Jenis Penyakit Kulit!
-Panu
-Kurap
-Gatal gatalq103
+q103#Jenis Penyakit Kulit?
+panu
+kurap
+gatal gatalq103
 
 
-q104#Yang Dilakukan Pas Lagi Duduk Santai!
-Baca Koran
-Melamun
-Minum Kopi
-Merokok
-Ngobrol
-Nonton tvq104
+q104#Yang Dilakukan Pas Lagi Duduk Santai?
+baca koran
+melamun
+minum kopi
+merokok
+ngobrol
+nonton tvq104
 
 
-q105#Nama Hewan Berawalan A!
-Anjing
-Ayam
-Angsaq105
+q105#Nama Hewan Berawalan A?
+anjing
+ayam
+angsaq105
 
 
-q106#Rokok Di Indonesia!
-Djarum
-Marlboro
-U Mild
-Sampoernaq106
+q106#Rokok Di Indonesia?
+djarum
+marlboro
+u mild
+sampoernaq106
 
 
 q107#Merk Harddisk!
-Quantum
-Seagate
-Maxtor
-Wdc
-Intelq107
+quantum
+seagate
+maxtor
+wdc
+intelq107
 
 
-q108#Negara Pengekspor Minyak Terbesar!
-Arab
-Indonesia
-Kuwait
-Brunei Darussalamq108
+q108#Negara Pengekspor Minyak Terbesar?
+arab
+indonesia
+kuwait
+brunei darussalamq108
 
 
-q109#Yang Dilakukan Orang Saat Menunggu!
-Merokok
-Membaca
-Melamun
-Cemasq109
+q109#Yang Dilakukan Orang Saat Menunggu
+merokok
+membaca
+melamun
+cemasq109
 
 
-q110#Mobil Keluaran Toyota!
-Harrier
-Land Cruiser
-Fortuner
-Camry
-Jenis Jenis Energi
-Batu baraq110
+q110#Mobil Keluaran Toyota
+harrier
+land cruiser
+fortuner
+camryq110
 
 
-q111#Hewan Mamalia!
-Anjing
-Kucing
-Singa
-Kelinci
-Beruangq111
+q111#Hewan Mamalia
+anjing
+kucing
+singa
+kelinci
+beruangq111
 
 
-q112#Yang Biasa Ngambang Di Sungai!
-Mayat
-Sampah
-Kayuq112
+q112#Yang Biasa Ngambang Di Sungai
+mayat
+sampah
+kayuq112
 
 
-q113#Hewan Berbulu Tebal!
-Beruang
-Panda
-Kera
-Domba
-Kucingq113
+q113#Hewan Berbulu Tebal
+beruang
+panda
+kera
+domba
+kucingq113
 
 
-q114#Cara Pengawetan Sayur dan Buah!
-Pengeringan
-Pengalengan
-Pengasinan
-Pemanisan
-Pelumatanq114
+q114#Cara Pengawetan Sayur dan Buah
+pengeringan
+pengalengan
+pengasinan
+pemanisan
+pelumatanq114
 
 
-q115#Jenis Sampah!
-Organik
-Unorganik
-B3q115
+q115#Jenis Sampah
+organik
+unorganik
+b3q115
 
 
-q116#Teman Donald Bebek!
-Lang Ling Lung
-Agus Angsa
-Untung
-Desiq116
+q116#Teman Donald Bebek
+lang ling lung
+agus angsa
+untung
+desiq116
 
 
-q117#Hiburan Apa Yang Ada Dipesta Ulang Tahun!
-Band
-Badut
-Sulap
-Kuis
-Gameq117
+q117#Hiburan Apa Yang Ada Dipesta Ulang Tahun
+band
+badut
+sulap
+kuis
+gameq117
 
 
-q118#Sesuatu Yang Diangkat Dengan Truk!
-Perabotan
-Kayu
-Beras
-Besi
-Bajaq118
+q118#Sesuatu Yang Diangkat Dengan Truk
+perabotan
+kayu
+beras
+besi
+bajaq118
 
 
-q119#Bahan Bakar Yang Berasal Dari Alam!
-Bensin
-Solar
-Batu Bara
-Minyak Tanah
-LPGq119
+q119#Bahan Bakar Yang Berasal Dari Alam
+bensin
+solar
+batu bara
+minyak tanah
+lpgq119
 
 
-q120#Berapa Lama Orang Menjemur Kasur!
-Satu Jam
-Empat Jam
-Seharianq120
+q120#Berapa Lama Orang Menjemur Kasur
+satu jam
+empat jam
+seharianq120
 
 
-q121#Julukan Suporter Indonesia!
-Bonek
-Jak Mania
-Laviolaq121
+q121#Julukan Suporter Indonesia
+bonek
+jak mania
+laviolaq121
 
 
-q122#Negara Yang Memiliki Sungai Terpanjang Didunia!
-Afrika
-Amerika
-Chijna
-Rusiaq122
+q122#Negara Yang Memiliki Sungai Terpanjang Didunia
+afrika
+amerika
+chijna
+rusiaq122
 
 
-q123#Mata Uang Yang Berawalan R!
-Rupiah
-Riyal
-Riel
-Rupee
-Ringgitq123
+q123#Mata Uang Yang Berawalan R
+rupiah
+riyal
+riel
+rupee
+ringgitq123
 
 
-q124#Personil Big Bang!
-G-Dragon
-Taeyang
-Seungri
-Daesung
-T.O.Pq124
+q124#Personil Big Bang?
+g-dragon
+taeyang
+seungri
+daesung
+t.o.pq124
 
 
-q125#Alat Musik Sederhana!
-Gitar
-Drum
-Seruling
-Terompet
-Harmonika
-Pianikaq125
+q125#Alat Musik Sederhana
+gitar
+drum
+seruling
+terompet
+harmonika
+pianikaq125
 
 
-q126#Negara Di Asia Timur!
-China
-Taiwan
-Korea Utara
-Korea Selatan
-Mongoliaq126
+q126#Negara Di Asia Timur
+china
+taiwan
+korea utara
+korea selatan
+mongoliaq126
 
 
-q127#Makanan Yang Termasuk Gorengan!
-Ubi
-Tahu
-Tempe
-Pisangq127
+q127#Makanan Yang Termasuk Gorengan
+ubi
+tahu
+tempe
+pisangq127
 
 
-q128#Jenis Makanan Atau Minuman Yang Disukai Untuk Berbuka Puasa!
-Air Putih
-Gorengan
-Kolakq128
+q128#Jenis Makanan Atau Minuman Yang Disukai Untuk Berbuka Puasa
+air putih
+gorengan
+kolakq128
 
 
-q129#Tempat Wisata Di Indonesia!
-Bali
-Ancolq129
+q129#Tempat Wisata Di Indonesia
+bali
+ancolq129
 
 
-q130#Warna Tinta Bulpoint!
-Hitam
-Biru
-Merah
+q130#Warna Tinta Bulpoint
+hitam
+biru
+merah
 hijau
-Oranye
-Unguq130
+oranye
+unguq130
 
 
-q131#Kenapa Orang Makan!
-Lapar
-Stress
-Gengsi
-Waktunya Makan
-Kerja Sales
-Ikut Sayembara
-Pengen Gemukq131
+q131#Kenapa Orang Makan
+lapar
+stress
+gengsi
+waktunya makan
+kerja sales
+ikut sayembara
+pengen gemukq131
 
 
-q132#Struktur Sel!
-Membran Sel
-Sitoplasma
-Nukleus
-Organelq132
+q132#Struktur Sel
+membran sel
+sitoplasma
+nukleus
+organelq132
 
 
-q133#Apa Yang Dilakukan Orang Bila Mengantuk!
-Tidur
-Menguap
-Minum Kopi
-Cuci Mukaq133
+q133#Apa Yang Dilakukan Orang Bila mengantuk!
+tidur
+menguap
+minum kopi
+cuci mukaq133
 
 
-q134#Imunisasi Dari Pihak Posyandu / Klinik!
-Polio
-Campak
-Cacar
-BCG
-DPT
-Demam Tipoidq134
+q134#Imunisasi Dari Pihak Posyandu / Klinik
+polio
+campak
+cacar
+bcg
+dpt
+demam tipoidq134
 
 
-q135#Macam Baju Daerah!
-Bodo
-Kebaya
-Ulos
-Batik
-Guntiang Cino
-Surjanq135
+q135#Macam Baju Daerah
+bodo
+kebaya
+ulos
+batik
+guntiang cino
+surjanq135
 
 
-q136#Kebiasaan Anak Kecil Sesudah Bermain!
-Mandi
-Makan
-Tidurq136
+q136#Kebiasaan Anak Kecil Sesudah Bermain
+mandi
+makan
+tidurq136
 
 
-q137#Sebutkan Acara Tv Favorit!
-Kartun
-Kuis
-Telenovela
-Sinetron
-Olahraga
-Film Seriq137
+q137#Sebutkan Acara Tv Favorit
+kartun
+kuis
+telenovela
+sinetron
+olahraga
+film seriq137
 
 
-q138#Disaat Apa Orang Mematikan Ponsel!
-Ujian
-Kuliah
-Pacaran
-Ibadah
-Tidur
-Rapatq138
+q138#Disaat Apa Orang Mematikan Ponsel?
+ujian
+kuliah
+pacaran
+ibadah
+tidur
+rapatq138
 
 
-q139#Suara Yang Ditakuti Anak Anak!
-Anjing
-Hantu
-Petir
-Harimauq139
+q139#Suara Yang Ditakuti Anak Anak?
+anjing
+hantu
+petir
+harimauq139
 
 
-q140#Yang Dilakukan Orang Saat Liburan!
-Rekreasi
-Tidur
-Jalan Jalan
-Belanja
-Nonton Tvq140
+q140#Yang Dilakukan Orang Saat Liburan?
+rekreasi
+tidur
+jalan jalan
+belanja
+nonton tvq140
 
 
-q141#Sebutkan benda bocor bisa bermasalah!
-Gas
-Pipa
-Genteng
-Kondomq141
+q141#Sebutkan benda bocor bisa bermasalah?
+gas
+pipa
+genteng
+kondomq141
+
+q142#Kado yang biasa diberikan cowok kepada cewek
+boneka
+kalung
+coklat
+bungaq142
 
 
-q142#Kado yang biasa diberikan cowok kepada cewek!
-Boneka
-Kalung
-Coklat
-Bungaq142
+q143#Hal apa yang sering terlupakan seorang anak jika keasikan main game?
+mandi
+waktu sholat
+membantu ibu
+tugas sekolahq143
 
 
-q143#Hal apa yang sering terlupakan seorang anak jika keasikan main game!
-Mandi
-Waktu Sholat
-Membantu Ibu
-Tugas Sekolahq143
+q144#Developer bot ini?
+mazekubotq144
