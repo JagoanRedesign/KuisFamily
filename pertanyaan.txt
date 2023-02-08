@@ -1166,8 +1166,7 @@ argentina
 inggris
 belanda
 itali
-portugal
-Indonesiaq142
+portugalq142
 
 
 q143#Kegiatan Kamu Saat Sendirian Di Rumah
@@ -1224,4 +1223,119 @@ rudal
 tempek
 apemq149
 
+q150#Teman Donald Bebek
+lang ling lung
+agus angsa
+untung
+desiq150
+
+q151#Nama Negara Eropa
+inggris
+italia
+belandaq151
+
+q152#Merk Baterai Di Indonesia 
+national
+abc
+energizer
+eveready
+panasonic
+hitachiq152
+
+q153#Negara Bagian Australia
+sydney
+hobart
+adelaide
+melbourne
+perth
+brisbaneq153
+
+q154#Tokoh Kartun Jepang
+doraemon
+sinchan
+kenji
+sailormoon
+candy-candyq154
+
+q155#Mata Air
+sungai
+laut 
+danau
+air tanah
+samuderaq155
+
+q156#Ukuran Kertas
+a4
+legal
+a5
+letter
+executiveq156
+
+q157#Susu Sekarang Ada Berbagai Rasa
+Apa Saja Itu
+manis
+coklat
+kopi
+strawberry
+mocca
+grape
+nanas
+pisangq157
+
+
+q158#Kenapa Orang Makan
+lapar
+stress
+gengsi
+waktunya makan
+kerja sales
+ikut sayembara
+pengen gemukq158
+
+
+q159#Macam – Macam Pisang
+raja
+ambon
+sepatu
+tanduk
+mas 
+molenq159
+
+q160#Jenis Makanan Atau Minuman Yang Disukai Untuk Berbuka Puasa
+air putih
+teh hangat
+es kelapa muda
+gorengan
+kolakq160
+
+q161#Nama Mobil Terkenal
+honda
+mercy
+ferarri
+bmw
+jaguarq161
+
+q162#Tempat Kencan Paling Enak
+bioskop
+pantai
+warnet
+restorant
+rumah
+toiletq162
+
+q163#Hewan Mamalia
+anjing
+kucing
+singa
+kelinci
+beruangq163
+
+q164#Apa Reaksi Suami Waktu Malam Pertama Anda Membuka Pakaian
+marah
+tertawa
+bingung
+pergi
+cuek
+nangis
+menamparq164
 
