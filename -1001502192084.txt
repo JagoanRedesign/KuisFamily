@@ -812,10 +812,10 @@ kakiq097
 
 
 q098#Sebutkan social platform milik Meta!
-Facebook
-Instagram
-Whatsapp
-Messengerq098
+facebook
+instagram
+whatsapp
+messengerq098
 
 
 q099#Selain tombol huruf dan angka, tombol apa yang sering dipencet pada keyboard?
@@ -834,11 +834,170 @@ pingpong
 baseball
 tinjuq100
 
+q101#Aduh Aku Digigit….
+nyamuk 
+anjing 
+ular 
+tikus 
+pacarkuq101
 
-q101#Sebutkan sesuatu yang membuatmu wangi!
+
+q102#Berhubungan Dengan Musim Kemarau
+kering 
+panas 
+kebakaranq102
+
+
+q103#Julukan Club Real Madrid C.F
+the real samba 
+los galacticos 
+los blancos 
+los merenguez 
+the white 
+el realq103
+
+q104#Nama Danau
+toba 
+gajah mungkur 
+jatiluhur 
+towutiq104
+
+q105#Tempat Yang Dijadikan Ajang Maksiat
+hotel 
+tempat judi 
+diskotik 
+pub 
+bar 
+lokasi pelacuranq105
+
+q106#Tempat Wisata Di Belanda
+madame tussaud 
+keunkenhoff 
+madurondam utrecht 
+vlielandq106
+
+q107#Situs Berita
+bolanews
+kompas
+detikq107
+
+q108#Jenis Sampah
+organik
+unorganik
+b3q108
+
+q109#Bahan Bakar Yang Berasal Dari Alam
+bensin
+solar
+batu bara
+minyak tanah
+lpgq109
+
+q110#Penduduk Negara Mana Yang Biasanya Memakai Pakaian Negaranya
+india
+indonesia
+jepang
+arab
+vietnamq110
+
+q111#Merk Gel Rambut
+gatsby
+brisk
+johny andrean
+rudy hadisuwarno
+clearq111
+
+
+q112#Software Chatting
+mirc
+yahoo messenger
+msn
+google talk
+skype
+camfrog
+live connector
+icq
+windows liveq112
+
+
+q113#Seorang Sahabat
+dapat diajak curhat
+saling berbagi
+bukan pasangan
+personil ngelaba
+eko
+parto
+akriq113
+
+
+q114#Yang Biasa Mengambang Di Sungai
+bangkai
+pakaian
+mayat
+sampah
+kayu
+tokaiq114
+
+
+q115#Apa Saja Yang Dibeli Ketika Ingin Menonton Bioskop
+snack
+minuman
+popcorn
+tissu
+permen
+rotiq115
+
+
+q116#Sebutkan Lagu Linkin Park
+numb
+faint
+breaking the habbit
+somewhere i belong
+paper cutq116
+
+
+q117#Istilah Samurai
+buke
+kabukimono
+musha
+si
+mononofu
+tsuwamonoq117
+
+
+q118#Universitas Palembang
+iba
+mdp
+igm
+musi
+unsriq118
+
+
+q119#Mall Di Surabaya/ Semarang
+java mall
+ciputra
+sri ratu
+matahari
+ramayanaq119
+
+
+q120#Mobil Keluaran Honda
+stream
+civic
+cr-v
+jazz
+cityq120
+
+q121#Sebutkan sesuatu yang membuatmu wangi!
 parfum
 sabun
 sampo
 deodoran
-losionq101
+losionq121
+
+q122#Nama Lain Alat Kelamin
+burung
+rudal
+tempek
+apemq122
 
