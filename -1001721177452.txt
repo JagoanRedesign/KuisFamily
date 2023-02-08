@@ -1,42 +1,1227 @@
-Sebutkan macam isi bantal!
-1. _________
-2. _________
-3. _________
-4. _________
-5. _________
-6. _________
-#Sebutkan macam isi bantal!
+q001#sebutkan nama buah dengan akhiran huruf A!
+semangka
+mangga
+pepaya
+kelapa
+nangka
+delima
+markisa
+kurma
+srikaya
+nagaq001
 
+
+q002#sebutkan nama buah dengan awalan huruf D!
+delima
+duku
+durian
+duwetq002
+
+
+q003#sebutkan nama buah dengan awalan huruf S!
+salak
+semangka
+stroberi
+sirsak
+sukun
+sawo
+srikayaq003
+
+
+q004#sebutkan nama buah dengan akhiran huruf N!
+rambutan
+lemon
+melon
+durian
+timun
+degan
+sukunq004
+
+
+q005#sebutkan nama hewan dengan awalan huruf U!
+ular
+udang
+ulat
+unta
+ubur-ubur
+undur-undurq005
+
+
+q006#sebutkan nama hewan dengan akhiran huruf H!
+gajah
+jerapah
+lebah
+lintah
+rubah
+cendrawasihq006
+
+
+q007#sebutkan nama hewan dengan akhiran huruf R!
+ular
+kelelawar
+lobster
+jaguar
+tapir
+hamster
+ubur-ubur
+undur-undurq007
+
+
+q008#sebutkan hewan bertanduk!
+sapi
+kambing
+kerbau
+domba
+banteng
+rusa
+kijang
+bisonq008
+
+
+q009#sebutkan nama-nama ruangan dari sebuah rumah!
+kamar tidur
+kamar mandi
+dapur
+ruang tamu
+ruang keluargaq009
+
+
+q010#sebutkan penyebab orang bisa mati!
+takdir
+penyakit
+kecelakaan
+keracunan
+dibunuh
+bunuh diriq010
+
+
+q011#Tempat apa yang biasa dijadikan untuk berpetualang?
+hutan
+gunung
+sungai
+laut
+sawahq011
+
+
+q012#Sebutkan benda bocor yang bisa bermasalah!
+ban
+genteng
+gas
+pipa
+kondomq012
+
+
+q013#Sebutkan cairan yang dapat keluar dari tubuh manusia!
+keringat
+air mata
+ludah
+darah
+air mani
+air seni
+nanah
+tinja
+maziq013
+
+
+q014#Sebutkan lapisan-lapisan atmosfer!
+troposfer
+stratosfer
+mesosfer
+termosfer
+eksosferq014
+
+
+q015#Sebutkan negara-negara maju di benua Asia!
+singapura
+jepang
+korea selatan
+taiwan
+hongkong
+israel
+makauq015
+
+
+q016#Sebutkan alat musik tiup!
+suling
+terompet
+harmonika
+pianika
+klarinetq016
+
+
+q017#Sebutkan merk laptop terkenal!
+toshiba
+asus
+acer
+lenovo
+hp
+apple
+dell
+msi
+samsungq017
+
+
+q018#Sebutkan merk sabun mandi!
+nuvo
+giv
+lifebuoy
+lux
+dettol
+dove
+shinzui
+citraq018
+
+
+q019#Sebutkan klasifikasi kingdom makhluk hidup!
+tumbuhan
+hewan
+jamur
+monera
+protistaq019
+
+
+q020#Sebutkan kelompok-kelompok hewan vertebrata!
+mamalia
+reptilia
+amphibia
+aves
+piscesq020
+
+
+q021#Sebutkan hewan yang biasa ditunggangi manusia!
+kuda
+unta
+gajah
+banteng
+kerbau
+keledai
+llama
+rusaq021
+
+
+q022#Sebutkan planet di tata surya dalam bahasa inggris!
+mars
+earth
+venus
+mercury
+jupiter
+uranus
+saturn
+neptuneq022
+
+
+q023#Sebutkan warna dalam lagu balonku!
+hijau
+kuning
+kelabu
+biru
+pinkq023
+
+
+q024#Sebutkan jenis profesi yang sering muncul dalam sinetron!
+dokter
+pembantu
+pedagang
+polisi
+wartawanq024
+
+
+q025#Sebutkan macam senjata yang digunakan ninja!
+kunai
+shuriken
+bom
+makibishiq025
+
+
+q026#Sebutkan macam isi bantal!
 kapas
 kapuk
 kain
 bulu
 dakron
-lateks
-:end
+lateksq026
 
-Suara yang ditakuti anak-anak
-1. _________
-2. _________
-3. _________
-4. _________
-#Suara yang ditakuti anak-anak
 
-Anjing
-Hantu
-Petir
-Harimau
-:end
+q027#Sebutkan nama bulan yang berjumlah 30 hari!
+april
+juni
+september
+novemberq027
 
-Soal 3
-1. _________
-2. _________
-3. _________
-4. _________
-#Soal 3
 
-Anjing
-Hantu
-Petir
-Harimau
-:end
+q028#Sebutkan nama umum spesies kucing besar!
+harimau
+singa
+jaguar
+cheetah
+puma
+lynxq028
+
+
+q029#Sebutkan barang yang bisa terbuat dari kulit binatang!
+tas
+jaket
+sepatu
+sandal
+sabuk
+dompet
+bedukq029
+
+
+q030#Sebutkan hal yang berhubungan dengan vampir!
+darah
+taring
+drakula
+malam
+kelelawar
+halloweenq030
+
+
+q031#Sebutkan jenis jenis asuransi!
+jiwa
+kesehatan
+pendidikan
+kendaraan
+kecelakaan
+hari tuaq031
+
+
+q032#Sebutkan sesuatu yang dijilat!
+es krim
+lolipop
+amplop
+bibirmuq032
+
+
+q033#Selain dada (da 2x), sebutkan bagian tubuh yang namanya berulang!
+pipi
+paru paru
+susu
+gigi
+kuku
+ususq033
+
+
+q034#Dimana biasanya orang duduk santai sambil ngopi?
+rumah
+kantor
+warung
+kafe
+pos rondaq034 
+
+
+q035#Profesi apa yang menggunakan helm?
+kuli
+kontraktor
+ojek
+pembalapq035 
+
+
+q036#Sifat yang dimiliki anak-anak..
+manja 
+nakal 
+pemalu
+cengengq036
+
+
+q037#Apa yang biasanya ditaruh di saku?
+hp
+dompet 
+uang 
+kunci 
+permen 
+pulpenq037
+
+
+q038#Benda apa yang orang sering kehilangan?
+uang
+dompet
+kunci
+hpq038
+
+
+q039#Bagian tubuh yang mudah gemuk..
+perut
+paha
+pinggul
+pipi
+leherq039
+
+
+q040#Saat mencium bau apa orang menutup hidungnya?
+kentut
+bangkai
+pesing
+busuk
+sampah
+tinjaq040
+
+
+q041#Saat ngantuk orang ngapain?
+tidur
+minum kopi
+cuci muka
+menguapq041
+
+
+q042#Sebutkan hewan yang sering menggigit manusia!
+nyamuk
+semut
+ular
+anjingq042
+
+
+q043#Sebutkan kebiasaan anak kecil sesudah bermain!
+tidur
+makan
+mandi
+minum susuq043
+
+
+q044#Sebutkan yang memiliki pola warna unik pada bulunya!
+zebra
+harimau
+macan tutul
+merakq044
+
+
+q045#Sebutkan perbuatan yang kamu merasa bersalah tepat setelah kamu melakukannya!
+mencuri
+berbohong
+selingkuh
+menghabiskan uang
+membentak
+makan kebanyakanq045
+
+
+q046#Menghabiskan waktu dengan siapa jika tidak punya pacar?
+orang tua
+teman
+keluarga
+saudara
+sendiriq046
+
+
+q047#Kamu taruh mana jika kamu punya selembar foto berharga?
+bingkai
+dompet
+laci
+buku
+albumq047
+
+
+q048#Sebutkan olahraga yang komentatornya sering berteriak semangat!
+sepak bola
+futsal
+basket
+tinjuq048
+
+
+q049#Dimana kamu bisa melihat ikan?
+laut
+sungai
+akuarium
+kolam
+danau
+empang
+pasarq049
+
+
+q050#Mobil tidak bisa jalan tanpa..
+bahan bakar
+mesin
+radiator
+oli
+ban
+akiq050
+
+
+q051#Sebutkan sesuatu yang bisa membuatmu gatal!
+nyamuk
+semut
+alergi
+ketombe
+penyakit kulit
+gak mandiq051
+
+
+q052#Topik apa yang biasanya dibahas di majalah wanita?
+kecantikan
+fashion
+masakan
+asmara
+kehamilanq052
+
+
+q053#Sebutkan benda yang memiliki resleting!
+tas
+pakaian
+koper
+dompet
+tendaq053
+
+
+q054#Sebutkan tempat dimana orang mudah mencari teman?
+sekolah
+tempat kerja
+tempat ibadah
+tempat tinggal
+kampus
+internetq054
+
+
+q055#Sebutkan apa yang bisa kamu lihat di langit!
+bintang
+bulan
+matahari
+awan
+pesawat
+burung
+pelangiq055
+
+
+q056#Sebutkan tempat dimana ada elevator?
+mall
+hotel
+rumah sakit
+gedungq056
+
+
+q057#Bagian tubuh apa yang biasa dipijit?
+punggung
+pundak
+tangan
+kaki
+paha
+kepalaq057
+
+
+q058#Sebutkan benda yang semakin kecil jika terus digunakan!
+sabun batang
+pensil
+penghapus
+kapur
+lipstikq058
+
+
+q059#Tidak ada yang lebih berharga di dunia ini daripada ...?
+keluarga
+sahabat
+cinta
+kesehatan
+uangq059
+
+
+q060#Apa yang sering orang tua belikan untuk anak balitanya?
+popok
+susu
+mainan
+bedak
+pakaian
+sabunq060
+
+
+q061#Sebutkan tanda-tanda penuaan fisik pada seseorang!
+keriput
+ubanan
+botak
+mata rabun
+sakit punggung
+loyoq061
+
+
+q062#Apa yang biasa jatuh dari suatu pohon?
+daun
+bunga
+buah
+biji
+rantingq062
+
+
+q063#Sebutkan sinonim dari kata 'sombong'!
+angkuh
+congkak
+besar kepala
+arogan
+takabur
+belagu
+jumawaq063
+
+
+q064#Sebutkan hewan yang memiliki gigi tajam yang banyak!
+buaya
+hiuq064
+
+
+q065#Sebutkan alat komunikasi yang sudah ketinggalan jaman!
+surat
+telepon umum
+telegrafq065
+
+
+q066#Bangunan apa memiliki banyak tempat tidur?
+hotel
+kos
+rumah sakit
+puskesmas
+asrama
+barakq066
+
+
+q067#Sebutkan anggota tubuh yang berpasangan!
+mata
+telinga
+tangan
+kaki
+payudara
+biji pelirq067
+
+
+q068#Kegiatan apa yang lebih baik jika dilakukan dalam gelap?
+tidur
+nonton film
+cerita horor
+ngeweq068
+
+
+q069#Sebutkan benda dirumah yang jarang sekali ganti baterai!
+jam
+remot
+senterq069
+
+
+q070#Sebutkan kendaraan yang mempunyai sirene!
+mobil polisi
+mobil ambulan
+mobil pemadam kebakaranq070
+
+
+q071#Dimana kamu bisa melihat banyak bunga?
+taman
+kebun
+toko bunga
+pemakamanq071
+
+
+q072#Benda apa yang dipakai di leher?
+kalung
+dasi
+syal
+peluitq072
+
+
+q073#Sebutkan negara yang hanya 1 pulau!
+australia
+selandia baru
+islandia
+fijiq073
+
+
+q074#Apa yang orang panjat?
+tebing
+pohon
+gunung
+tangga
+pinangq074
+
+
+q075#Sebutkan konsol game!
+playstation
+nintendo
+atari
+sega
+xboxq075
+
+
+q076#Sebutkan kendaraan yang memiliki banyak penumpang!
+bus
+kereta api
+pesawat
+angkot
+mrtq076
+
+
+q077#Apa yang orang lakukan di depan cermin?
+dandan
+becermin
+sisiran
+cukur
+potong rambutq077
+
+
+q078#Sebutkan warna-warna pelangi! (inggris)
+red
+orange
+yellow
+green
+blue
+purple
+indigoq078
+
+
+q079#Makanan jepang yang terkenal di Indonesia?
+sushi
+sashimi
+onigiri
+ramen
+tempura
+dorayaki
+takoyakiq079
+
+
+q080#Sebutkan profesi dengan awalan huruf B!
+bidan
+buruh
+barista
+bartender
+bloggerq080
+
+
+q081#Sebutkan profesi dengan awalan huruf S!
+supir
+satpam
+sekretaris
+sutradara
+selebriti
+senimanq081
+
+
+q082#Sebutkan profesi dengan awalan huruf D!
+dokter
+dosen
+direktur
+desainer
+diplomat
+dubberq082
+
+
+q083#Sebutkan sesuatu yang jatuh dari langit!
+hujan
+salju
+es
+meteorq083
+
+
+q084#Sebutkan lagu-lagu nasional indonesia!
+indonesia raya
+garuda pancasila
+mengheningkan cipta
+indonesia pusaka
+bagimu negeri
+halo-halo bandung
+hari merdeka
+maju tak gentar
+tanah airkuq084
+
+
+q085#Dimana biasanya dua sejoli kencan?
+pantai
+taman
+bioskop
+restoran
+tempat wisata
+hotelq085
+
+
+q086#Sebutkan aksesoris yang hampir semua perempuan mengenakannya!
+anting
+kalung
+cincin
+braq086
+
+
+q087#Jika kamu tersesat, darimana kamu mendapatkan informasi?
+tanya orang
+kompas
+gps
+petaq087
+
+
+q088#Buah apa yang biasanya orang belah?
+semangka
+durian
+nangka
+pepaya
+mangga
+nanasq088
+
+
+q089#Benda yang disebut rusak jika banyak goresan di benda itu?
+cermin
+kacamata
+kaset
+lukisan
+piringan hitamq089
+
+
+q090#Apa yang besar dari gajah?
+tubuh
+telinga
+belalai
+gadingq090
+
+
+q091#Jika kamu melihat seseorang dirampok, apa yang kamu lakukan?
+berteriak
+panggil polisi
+pukul kentongan
+hajar perampokq091
+
+
+q092#Benda apa yang harus basah dulu sebelum digunakan?
+spons
+pel
+sabun
+semenq092
+
+
+q094#Sebutkan bahan makanan yang tumbuh di dalam tanah!
+ubi
+singkong
+kentang
+wortel
+kacang tanah
+talasq094
+
+
+q095#Apa yang biasanya masuk di mata kamu?
+debu
+sabun
+asap
+rambut
+seranggaq095
+
+
+q096#Buah apa yang muat dalam mulutmu sepenuhnya?
+anggur
+kelengkeng
+rambutan
+ceri
+stroberi
+cermai
+asam
+belimbing wuluhq096
+
+
+q097#Bagian tubuh mana yang wanita biasa memakai perhiasan?
+telinga
+leher
+jari
+tangan
+kakiq097
+
+
+q098#Sebutkan social platform milik Meta!
+facebook
+instagram
+whatsapp
+messengerq098
+
+
+q099#Selain tombol huruf dan angka, tombol apa yang sering dipencet pada keyboard?
+enter
+backspace
+ctrl
+shift
+spaceq099
+
+
+q100#Olahraga apa yang memukul sesuatu?
+bulutangkis
+tenis
+voli
+pingpong
+baseball
+tinjuq100
+
+q101#Aduh Aku Digigit….
+nyamuk 
+anjing 
+ular 
+tikus 
+pacarkuq101
+
+
+q102#Berhubungan Dengan Musim Kemarau
+kering 
+panas 
+kebakaranq102
+
+
+q103#Julukan Club Real Madrid C.F
+the real samba 
+los galacticos 
+los blancos 
+los merenguez 
+the white 
+el realq103
+
+q104#Nama Danau
+toba 
+gajah mungkur 
+jatiluhur 
+towutiq104
+
+q105#Tempat Yang Dijadikan Ajang Maksiat
+hotel 
+tempat judi 
+diskotik 
+pub 
+bar 
+lokasi pelacuranq105
+
+q106#Tempat Wisata Di Belanda
+madame tussaud 
+keunkenhoff 
+madurondam utrecht 
+vlielandq106
+
+q107#Situs Berita
+bolanews
+kompas
+detikq107
+
+q108#Jenis Sampah
+organik
+unorganik
+b3q108
+
+q109#Bahan Bakar Yang Berasal Dari Alam
+bensin
+solar
+batu bara
+minyak tanah
+lpgq109
+
+q110#Penduduk Negara Mana Yang Biasanya Memakai Pakaian Negaranya
+india
+indonesia
+jepang
+arab
+vietnamq110
+
+q111#Merk Gel Rambut
+gatsby
+brisk
+johny andrean
+rudy hadisuwarno
+clearq111
+
+
+q112#Software Chatting
+mirc
+yahoo messenger
+msn
+google talk
+skype
+camfrog
+live connector
+icq
+windows liveq112
+
+
+q113#Seorang Sahabat
+dapat diajak curhat
+saling berbagi
+bukan pasangan
+personil ngelaba
+eko
+parto
+akriq113
+
+
+q114#Yang Biasa Mengambang Di Sungai
+bangkai
+pakaian
+mayat
+sampah
+kayu
+tokaiq114
+
+
+q115#Apa Saja Yang Dibeli Ketika Ingin Menonton Bioskop
+snack
+minuman
+popcorn
+tissu
+permen
+rotiq115
+
+
+q116#Sebutkan Lagu Linkin Park
+numb
+faint
+breaking the habbit
+somewhere i belong
+paper cutq116
+
+
+q117#Istilah Samurai
+buke
+kabukimono
+musha
+si
+mononofu
+tsuwamonoq117
+
+
+q118#Universitas Palembang
+iba
+mdp
+igm
+musi
+unsriq118
+
+
+q119#Mall Di Surabaya/ Semarang
+java mall
+ciputra
+sri ratu
+matahari
+ramayanaq119
+
+
+q120#Mobil Keluaran Honda
+stream
+civic
+cr-v
+jazz
+cityq120
+
+q121#Rokok Di Indonesia
+djarum
+gudang garam
+marlboro
+a mild
+lucky strike
+dunhill
+la
+sampoernaq121
+
+q122#Sebutkan Alat Penunjuk Arah
+bayangan
+bulan
+matahari
+kompasq122
+
+q123#Penyanyi Seksi Keluaran Hollywood
+britney spears
+shakira
+jennifer lopez
+christina aguilera
+madonnaq123
+
+q124#Berhubungan Dgn Kombinasi
+warna
+pakaian
+pukulan
+tendanganq124
+
+q125#Tokoh Dlm Film Peterpan
+peterpan
+wendy
+kapten hook
+tinkerbellq125
+
+q126#Kepanjangan Pasutri
+pasangan suami istri
+pasangan suami takut istriq126
+
+q127#Mainan Apa Saja Yang Ada Di Dunia Fantasi
+halilintar
+niagara
+arung jeram
+kora-kora
+pontang-pantingq127
+
+q128#Berapa Lama Orang Menjemur Kasur
+satu jam
+empat jam
+sehariq128
+
+q129#Disaat Apa Orang Mematikan Ponsel
+ujian
+kuliah
+pacaran
+ibadah
+tidur
+rapatq129
+
+q130#Batuan Mineral Yg Berharga Tinggi
+berlian
+intan
+mutiara
+jamrud
+permata
+delimaq130
+
+q131#Penerbit Buku Di Indonesia
+erlangga
+gramedia
+penerbit andi
+intan pariwara
+grafindoq131
+
+q132#Tempat Wisata Di Indonesia
+bali
+danau toba
+malioboro
+puncak
+borobudur
+ancol
+saritem
+cibubur
+dolly
+dunia fantasyq132
+
+q133#Cara Efektif Membunuh Nyamuk
+semprot
+lempar
+cablek
+injek
+tabok
+pites
+gigitq133
+
+q135#Mall/Pusat Perbelanjaan Yang Ada Di Surabaya
+tunjungan plasa
+delta plasa
+galaxy mall
+jembatan merah plasa
+ptc
+transmart
+carefourq134
+
+
+q135#Senjata Tradisional Indonesia
+kujang
+mandau
+keris
+badik
+rudus
+parang
+pehduk payan
+golok
+terapang
+kelewang
+kudukq135
+
+q136#Personil Laruku
+yuki
+teru
+hyde
+kenq136
+
+
+q137#Tingkatan Kelas Dalam Tinju
+berat
+welter
+bantam
+berat ringan
+penjelajahq137
+
+q138#Nama Burung
+kutilang
+beo
+cendrawasih
+elang
+pipit
+gagak
+kakatuaq138
+
+
+q139#Personil Ungu
+pasha
+enda
+onci
+makki
+rowmanq139
+
+
+q140#Yang Dapat Dimakan Campuran Dengan Roti
+selada
+mentega
+telor
+coklat
+selai
+keju
+sosis
+daging ham
+susuq140
+
+
+q141#Pemeran Film Titanic
+leonardo dicaprio
+kate winslet
+frances fisher
+billy zane
+kathy bates
+gloria stuartq141
+
+
+q142#Negara Mana Yang Menjadi Favorite Kamu Dalam Piala Dunia
+brazil
+jerman
+argentina
+inggris
+belanda
+itali
+portugal
+Indonesiaq142
+
+
+q143#Kegiatan Kamu Saat Sendirian Di Rumah
+tidur
+telepon
+belajar
+seks
+dengerin musik
+baca bukuq143
+
+q144#Nama Pasukan Yang Di Pimpin Oleh Letnan Jendral Soeharto Pada Waktu Pemberihan Ormas Pki
+trisulaq144
+
+q145#Nama Bulan Dalam Bahasa Jepang?
+ichigatsu
+nigatsu
+sangatsu
+shigatsu
+gogatsu
+rokugatsu
+nanagatsu
+hachigatsu
+kugatsu
+jugatsu
+juuichigatsu
+juunigatsuq145
+
+q146#Merk Ban Mobil
+accelera
+achilles
+federal
+gt radial
+cordovan
+goodyear
+kelly springfield
+michelinq146
+
+q147#Kebiasaan Kita Disaat Bertemu Sahabat
+ngobrol
+makan
+pelukan
+gosipq147
+
+q148#Sebutkan sesuatu yang membuatmu wangi!
+parfum
+sabun
+sampo
+deodoran
+losionq148
+
+q149#Nama Lain Alat Kelamin
+burung
+rudal
+tempek
+apemq149
+
+
