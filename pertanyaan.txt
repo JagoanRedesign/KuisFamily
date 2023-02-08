@@ -988,16 +988,240 @@ cr-v
 jazz
 cityq120
 
-q121#Sebutkan sesuatu yang membuatmu wangi!
+q121#Rokok Di Indonesia
+djarum
+gudang garam
+marlboro
+a mild
+lucky strike
+dunhill
+la
+sampoernaq121
+
+q122#Sebutkan Alat Penunjuk Arah
+bayangan
+bulan
+matahari
+kompasq122
+
+q123#Penyanyi Seksi Keluaran Hollywood
+britney spears
+shakira
+jennifer lopez
+christina aguilera
+madonnaq123
+
+q124#Berhubungan Dgn Kombinasi
+warna
+pakaian
+pukulan
+tendanganq124
+
+q125#Tokoh Dlm Film Peterpan
+peterpan
+wendy
+kapten hook
+tinkerbellq125
+
+q126#Kepanjangan Pasutri
+pasangan suami istri
+pasangan suami takut istriq126
+
+q127#Mainan Apa Saja Yang Ada Di Dunia Fantasi
+halilintar
+niagara
+arung jeram
+kora-kora
+pontang-pantingq127
+
+q128#Berapa Lama Orang Menjemur Kasur
+satu jam
+empat jam
+sehariq128
+
+q129#Disaat Apa Orang Mematikan Ponsel
+ujian
+kuliah
+pacaran
+ibadah
+tidur
+rapatq129
+
+q130#Batuan Mineral Yg Berharga Tinggi
+berlian
+intan
+mutiara
+jamrud
+permata
+delimaq130
+
+q131#Penerbit Buku Di Indonesia
+erlangga
+gramedia
+penerbit andi
+intan pariwara
+grafindoq131
+
+q132#Tempat Wisata Di Indonesia
+bali
+danau toba
+malioboro
+puncak
+borobudur
+ancol
+saritem
+cibubur
+dolly
+dunia fantasyq132
+
+q133#Cara Efektif Membunuh Nyamuk
+semprot
+lempar
+cablek
+injek
+tabok
+pites
+gigitq133
+
+q135#Mall/Pusat Perbelanjaan Yang Ada Di Surabaya
+tunjungan plasa
+delta plasa
+galaxy mall
+jembatan merah plasa
+ptc
+transmart
+carefourq134
+
+
+q135#Senjata Tradisional Indonesia
+kujang
+mandau
+keris
+badik
+rudus
+parang
+pehduk payan
+golok
+terapang
+kelewang
+kudukq135
+
+q136#Personil Laruku
+yuki
+teru
+hyde
+kenq136
+
+
+q137#Tingkatan Kelas Dalam Tinju
+berat
+welter
+bantam
+berat ringan
+penjelajahq137
+
+q138#Nama Burung
+kutilang
+beo
+cendrawasih
+elang
+pipit
+gagak
+kakatuaq138
+
+
+q139#Personil Ungu
+pasha
+enda
+onci
+makki
+rowmanq139
+
+
+q140#Yang Dapat Dimakan Campuran Dengan Roti
+selada
+mentega
+telor
+coklat
+selai
+keju
+sosis
+daging ham
+susuq140
+
+
+q141#Pemeran Film Titanic
+leonardo dicaprio
+kate winslet
+frances fisher
+billy zane
+kathy bates
+gloria stuartq141
+
+
+q142#Negara Mana Yang Menjadi Favorite Kamu Dalam Piala Dunia
+brazil
+jerman
+argentina
+inggris
+belanda
+itali
+portugal
+Indonesiaq142
+
+
+q143#Kegiatan Kamu Saat Sendirian Di Rumah
+tidur
+telepon
+belajar
+seks
+dengerin musik
+baca bukuq143
+
+q144#Nama Pasukan Yang Di Pimpin Oleh Letnan Jendral Soeharto Pada Waktu Pemberihan Ormas Pki
+trisulaq144
+
+q145#Nama Bulan Dalam Bahasa Jepang?
+ichigatsu
+nigatsu
+sangatsu
+shigatsu
+gogatsu
+rokugatsu
+nanagatsu
+hachigatsu
+kugatsu
+jugatsu
+juuichigatsu
+juunigatsuq145
+
+q146#Merk Ban Mobil
+accelera
+achilles
+federal
+gt radial
+cordovan
+goodyear
+kelly springfield
+michelinq146
+
+q147#Kebiasaan Kita Disaat Bertemu Sahabat
+ngobrol
+makan
+pelukan
+gosipq147
+
+q148#Sebutkan sesuatu yang membuatmu wangi!
 parfum
 sabun
 sampo
 deodoran
-losionq121
+losionq148
 
-q122#Nama Lain Alat Kelamin
+q149#Nama Lain Alat Kelamin
 burung
 rudal
 tempek
-apemq122
+apemq149
+
 
